@@ -114,69 +114,62 @@ GitHub for documentation and version control
 
  ├── Report/
  │   └── One_Page_Summary_Report
- Key Insights
-Revenue is concentrated around a few high‑demand courses.
+🔑 Key Insights – Course Performance
+Beginner courses (Python Basics, Excel for Business) show high purchase volumes, proving strong entry‑level demand.
 
-Technology and Business categories generate the highest revenue and attract the most unique learners.
+Advanced courses (Machine Learning Fundamentals, Advanced SQL) generate higher revenue per purchase, appealing to premium learners.
 
-Beginner‑level courses drive purchase volume, while advanced courses yield higher per‑purchase revenue.
+Analytics courses (Power BI) attract diverse learners across countries, contributing steady revenue.
 
-A small group of learners contributes disproportionately to overall spending.
+Some courses remain un‑purchased, highlighting visibility gaps.
+📝 Four Types of Analysis
+1. Descriptive Analysis
+👉 What happened?
 
-Seasonal spikes occur during promotions and exam preparation periods.
+Total revenue is concentrated in Beginner and Advanced categories.
 
-Some courses remain unpurchased, indicating low visibility or relevance.
+Python Basics and Excel for Business dominate in quantity sold, while Machine Learning drives premium revenue.
 
-Brief Recommendations
-Focus marketing on top‑performing categories (Technology, Business).
+Learners from multiple countries are engaging, showing global reach.
 
-Target cross‑category learners with bundled offers or personalized recommendations.
+2. Diagnostic Analysis
+👉 Why did it happen?
 
-Improve visibility of under‑purchased courses through discounts, free trials, or better placement.
+Beginner courses are cheaper and accessible, so learners buy multiple units.
 
-Retain high‑value learners with loyalty rewards or subscription models.
+Advanced courses are priced higher, purchased less often, but yield more revenue per transaction.
 
-Encourage diversification with curated learning paths combining beginner and advanced courses.
+Under‑purchased courses may lack marketing visibility or relevance to learner needs.
 
-Analytics Perspectives
-1️⃣ Descriptive Analysis
-Summarizes what happened:
+3. Predictive Analysis
+   👉 What is likely to happen?
 
-Identified top‑performing categories and high‑demand courses.
+Demand for Beginner courses will remain strong as new learners join.
 
-Quantified total revenue, purchase volume, and learner spending patterns.
+Analytics and Machine Learning courses will grow steadily as learners progress to advanced skills.
 
-Highlighted seasonal spikes and unpurchased courses.
+Courses with low/no purchases will continue to underperform unless promoted.
 
-2️⃣ Diagnostic Analysis
-Explains why it happened:
+4. Prescriptive Analysis
+👉 What should be done?
 
-Promotional and exam periods drive purchase peaks.
+Bundle beginner + advanced courses to encourage learner progression.
 
-Repeat buyers inflate revenue in certain categories.
+Promote under‑purchased courses via discounts, free trials, or visibility campaigns.
 
-Low visibility and limited relevance cause some courses to remain unpurchased.
+Target repeat buyers with loyalty rewards or subscription models.
 
-3️⃣ Predictive Analysis
-Forecasts what may happen next:
+Invest marketing in Analytics courses to capture learners transitioning from beginner to advanced.
 
-High‑value learners will continue to dominate spending.
+📌 Recommendations
+Focus marketing on top‑performing categories (Beginner + Analytics).
 
-Promotional campaigns will trigger future purchase surges.
+Use bundling strategies to drive adoption of premium courses.
 
-4️⃣ Prescriptive Analysis
-Recommends what actions to take:
+Improve visibility of low‑performing courses.
 
-Strengthen marketing for Technology and Business courses.
+Build learner loyalty programs to maximize long‑term value.
 
-Use personalized bundles to increase cross‑category purchases.
-
-Offer discounts and trials to boost under‑purchased course visibility.
-
-Implement loyalty programs to retain high‑value learners.
-
-Design learning paths combining beginner and advanced levels to expand engagement.
- ├── README.md
 
 
 
